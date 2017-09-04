@@ -1,7 +1,4 @@
-#windows:
-Thumbs.db
-ehthumbs.db
-Desktop.ini
+
 # Python:
 *.py[cod]
 *.so
@@ -9,6 +6,7 @@ Desktop.ini
 *.egg-info
 dist
 build
+*.class
 # My configurations:
 db.ini
 deploy_key_rsa
